@@ -37,5 +37,7 @@ format:
 
 main:
 	$(GOBUILD) -ldflags $(LDFLAGS) -o ${OUT} github.com/bfjelds/go-main
+	${OUT}
+
 	GOOS=windows $(GOBUILD) -ldflags $(LDFLAGS) -o ${OUTEXE} github.com/bfjelds/go-main
 

@@ -1,0 +1,6 @@
+github.com/bfjelds/go-library v0.0.0-20210502151646-81c0042e2dcd h1:5w5DgQM1gxQ6S7NjRVH1YuoSS+TcdosXzNlMjsWtZvk=
+github.com/bfjelds/go-library v0.0.0-20210502151646-81c0042e2dcd/go.mod h1:6TQVdxyux9cWe+ONttwDayMAbbwmPlE5hpkI15FiPAo=
+github.com/bfjelds/go-library v0.0.3-alpha1 h1:teaFumS7CObsQhgF1kXKqtTQ/YeIPRutvnS+NxEfAPc=
+github.com/bfjelds/go-library v0.0.3-alpha1/go.mod h1:6TQVdxyux9cWe+ONttwDayMAbbwmPlE5hpkI15FiPAo=
+github.com/bfjelds/go-library v0.0.3-alpha1-iot1 h1:2yu6qI3FzaPmsqzTg7ddvdlUpy5x4dYY/n9PjEXZFUs=
+github.com/bfjelds/go-library v0.0.3-alpha1-iot1/go.mod h1:6TQVdxyux9cWe+ONttwDayMAbbwmPlE5hpkI15FiPAo=
